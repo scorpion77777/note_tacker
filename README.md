@@ -54,5 +54,5 @@ vvmartirosyan@gmail.com
 ---------
 [Live Website](https://note-tacker-hw.herokuapp.com/notes)<br>
 <br>
-[GitHub Repository](https://github.com/scorpion77777/note_tacker)<br><br>
+[GitHub Repository](scorpion77777/note_tacker)<br><br>
 ![Screenshot](./screenshot.png)

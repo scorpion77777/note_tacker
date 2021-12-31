@@ -3,7 +3,6 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: "Roboto", sans-serif;
 }
 
 .save-note {
@@ -39,7 +38,7 @@ body {
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #3a4bdd !important;
+  color: #757575;
 }
 
 .list-container .card {
@@ -61,6 +60,11 @@ body {
   border-top-left-radius: 0;
 }
 
+.list-item-title {
+  display: inline-block;
+  width: 75%;
+}
+
 .list-container i {
   font-size: 1.1rem;
   cursor: pointer;
@@ -71,7 +75,4 @@ body {
   border-right: none;
   padding: 20px;
   cursor: pointer;
-}
-#noteNavbar {
-  color: #3a4bdd !important;
 }

@@ -43,7 +43,7 @@ OPEN CONTRIBUTION
 <a id="git"></a>
 ## 6.Github
 
-[GitHub](https://github.com/scorpion77777)
+[GitHub](https://github.com/scorpion77777/note_tacker)
 
 <a id="conta"></a>
 ## 7.Contact Me

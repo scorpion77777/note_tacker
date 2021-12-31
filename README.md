@@ -52,7 +52,7 @@ Email:
 vvmartirosyan@gmail.com
 <br>
 ---------
-[Live Website](https://note-tacker-hw.herokuapp.com/)<br>
+[Live Website Deployed on Heroku](https://note-tacker-hw.herokuapp.com/)<br>
 <br>
 [GitHub Repository](https://github.com/scorpion77777/note_tacker)<br>
 <br>

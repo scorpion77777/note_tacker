@@ -54,5 +54,5 @@ vvmartirosyan@gmail.com
 ---------
 [Live Website](https://dashboard.heroku.com/apps)<br>
 <br>
-[GitHub Repository](https://github.com/scorpion77777/note-taker)<br><br>
+[GitHub Repository](scorpion77777/note-taker)<br><br>
 ![Screenshot](./screenshot.png)

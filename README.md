@@ -28,7 +28,7 @@ This is a live deployed website on Heroku. If you want to use this application l
 <a id="use"></a>
 ## 3.Usage
 
-OPEN USE
+OPEN SOURCE
 
 <a id="contr"></a>
 ## 4.Contributing
@@ -52,7 +52,7 @@ Email:
 vvmartirosyan@gmail.com
 <br>
 ---------
-[Live Website](https://dashboard.heroku.com/apps)<br>
+[Live Website](https://note-tacker-hw.herokuapp.com/notes)<br>
 <br>
-[GitHub Repository](scorpion77777/note-taker)<br><br>
+[GitHub Repository](https://github.com/scorpion77777/note_tacker)<br><br>
 ![Screenshot](./screenshot.png)

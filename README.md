@@ -43,7 +43,7 @@ OPEN CONTRIBUTION
 <a id="git"></a>
 ## 6.Github
 
-[GitHub](https://github.com/https://github.com/scorpion77777)
+[GitHub](https://github.com/scorpion77777)
 
 <a id="conta"></a>
 ## 7.Contact Me
@@ -54,6 +54,6 @@ vvmartirosyan@gmail.com
 ---------
 [Live Website](https://note-tacker-hw.herokuapp.com/)<br>
 <br>
-[GitHub Repository](https://github.com/scorpion77777)<br>
+[GitHub Repository](https://github.com/scorpion77777/note_tacker)<br>
 <br>
 ![Screenshot](./screenshot.png)
